@@ -1,6 +1,7 @@
 {
   "contracts": [
     {
+        "id":1,
         "clientId": 1,
         "contractId":1,
         "type": "Personne Physique",
@@ -12,6 +13,7 @@
         "commercialInformation":"111"
     },
       {
+        "id":2,
         "clientId": 1,
         "contractId":2,
         "type": "Personne Physique",
