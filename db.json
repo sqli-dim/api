@@ -1,4 +1,67 @@
 {
+  "clients":
+  [
+    {   "id":1,
+        "clientId": 1,
+        "type": "Personne Physique",
+        "firstName": "Davet",
+        "lastName": "Béland",
+        "clientTitle":"1",
+        "operator":"EDF",
+        "phoneNumber": "06 34 54 32 89",
+        "contractCount" :2,
+        "commercialInformation":""
+    },
+      {
+        "id":2,
+        "clientId": 2,
+        "type": "Personne Physique",
+        "firstName": "Mathieu",
+        "lastName": "Foissart",
+        "clientTitle":"1",
+        "operator":"Electric Africa",
+        "phoneNumber": "06 34 54 32 89",
+        "contractCount" :2,
+        "commercialInformation":""
+    },
+    {
+        "id":3,
+        "clientId": 3,
+        "type": "Personne Physique",
+        "firstName": "Romain",
+        "lastName": "Degirs",
+        "clientTitle":"1",
+        "operator":"Electric Africa",
+        "phoneNumber": "06 34 54 32 89",
+        "contractCount" :2,
+        "commercialInformation":""
+    },
+    {
+        "id":4,
+        "clientId": 4,
+        "type": "Personne Morale",
+        "firstName": "Bruno",
+        "lastName": "Recipon",
+        "clientTitle":"1",
+        "operator":"Electric Africa",
+        "phoneNumber": "06 34 54 32 89",
+        "contractCount" :2,
+        "commercialInformation":""
+    },
+     {
+        "id":5,
+        "clientId": 5,
+        "type": "Personne Physique",
+        "firstName": "Etienne",
+        "lastName": "De suresne",
+        "clientTitle":"1",
+        "operator":"EDF",
+        "phoneNumber": "06 34 54 32 89",
+        "contractCount" :2,
+        "commercialInformation":""
+    } 
+],
+  
   "contracts": [
     {
         "id":1,
